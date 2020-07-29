@@ -1,0 +1,16 @@
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\Alfred.exe.config
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\Alfred.exe
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\Alfred.pdb
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\Microsoft.Speech.dll
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.csprojAssemblyReference.cache
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.Form1.resources
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.Properties.Resources.resources
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.csproj.GenerateResource.cache
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.csproj.CoreCompileInputs.cache
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.csproj.CopyComplete
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.exe
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.pdb
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.Login.resources
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\MySql.Data.dll
+C:\Users\wedsl\source\repos\Alfred\Alfred\bin\Debug\MySql.Data.xml
+C:\Users\wedsl\source\repos\Alfred\Alfred\obj\Debug\Alfred.adicionarComando.resources
